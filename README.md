@@ -6,7 +6,7 @@ This is a simple and functional **To-Do List Web Application** built using **Fla
 
 - User Registration and Login system  
 - Secure session-based authentication  
-- Add, update, mark as complete, and delete to-do tasks  
+- Add, mark as complete, and delete to-do tasks  
 - MongoDB integration for persistent storage  
 - Clean and user-friendly UI
 
